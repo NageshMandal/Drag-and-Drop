@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+}
+.container{
+    background-color: rgb(49, 49, 49);
+    padding: 1rem;
+    margin-top: 1rem;
+}
+
+.draggable{
+    padding: 1rem;
+    background-color: white;
+    border: 1px solid black;
+    cursor: move;
+}
